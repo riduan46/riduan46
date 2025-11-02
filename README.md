@@ -29,7 +29,7 @@
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=riduan46&theme=dark&hide_border=false)<br/>
-<div align="center">
+<div>
 
 <!-- Top Languages Card -->
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riduan46&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
