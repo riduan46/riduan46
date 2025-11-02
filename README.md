@@ -23,7 +23,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riduan.aziz46@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=About.me&logoColor=white)](https://riduan-aziz.vercel.app/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/riduanaziz)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/RiduanAziz/)
 
 ---
 
