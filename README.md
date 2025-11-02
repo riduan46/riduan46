@@ -71,11 +71,12 @@
 
 ## 🚀 Featured Projects  
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🛰️ [Aircraft Detection System (YOLOv8)](https://github.com/RiduanAziz/Aircraft-Detection) | Real-time missile/aircraft detection & tracking using OpenCV + Socket communication | Python, OpenCV, YOLOv8 |
-| 💳 [Smart POS & Sales Dashboard](https://github.com/RiduanAziz/Smart-POS-System) | Multi-store POS system with live analytics, report export (PDF/CSV), and admin panel | PHP, MySQL, JS |
-| 🤖 [AI ChatBot (NLP)](https://github.com/RiduanAziz/AI-ChatBot) | Context-aware chatbot using Natural Language Processing and TensorFlow | Python, NLTK, TensorFlow |
+| 🚀 Project | 📝 Description | 🧠 Tech Stack |
+|:-----------|:----------------|:--------------|
+| 📦 **Inventory Management System** | Web-based inventory solution for tracking, managing, and updating stock in real-time | `PHP`, `JavaScript`, `HTML`, `CSS`, `MySQL` |
+| 🚆 **Railway Reservation System** | Application for ticket booking, schedule management, and passenger data handling | `SQL`, `C#` |
+| ⏰ **Digital Clock (Arduino)** | Hardware-based digital clock built using Arduino and C++ with LED display | `C++`, `Arduino` |
+
 
 ---
 
@@ -102,8 +103,9 @@
 ---
 
 ## ✍️ Dev Quote  
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote"/>
+</p>
 
 ---
 
