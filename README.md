@@ -22,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riduan-aziz/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riduan.aziz46@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=About.me&logoColor=white)](https://riduan-aziz.vercel.app/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/riduanaziz)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/)
 
 ---
@@ -114,7 +114,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RiduanAziz&label=Profile%20views&color=ff69b4&style=flat" alt="riduan46" /> 
+  <img src="https://komarev.com/ghpvc/?username=RiduanAziz&label=Profile%20views&color=ff69b4&style=flat" alt="RiduanAziz" /> 
 </p>
 
 ---
