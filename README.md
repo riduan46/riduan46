@@ -28,7 +28,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=riduan46&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=riduan46&theme=dracula&hide_border=false)<br/>
 <div>
 
 <!-- Top Languages Card -->
@@ -37,18 +37,17 @@
 <!-- GitHub Stats Card -->
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=riduan46&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"/>
 
-</div>
-
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riduan46&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dracula&hide_border=false"/>
-</div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=riduan46&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div>
 
+<!-- GitHub Contributor Stats -->
+<img height="150px" src="https://github-contributor-stats.vercel.app/api?username=riduan46&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
