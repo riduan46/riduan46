@@ -73,9 +73,9 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🛰️ [Aircraft Detection System (YOLOv8)](https://github.com/riduan46/Aircraft-Detection) | Real-time missile/aircraft detection & tracking using OpenCV + Socket communication | Python, OpenCV, YOLOv8 |
-| 💳 [Smart POS & Sales Dashboard](https://github.com/riduan46/Smart-POS-System) | Multi-store POS system with live analytics, report export (PDF/CSV), and admin panel | PHP, MySQL, JS |
-| 🤖 [AI ChatBot (NLP)](https://github.com/riduan46/AI-ChatBot) | Context-aware chatbot using Natural Language Processing and TensorFlow | Python, NLTK, TensorFlow |
+| 🛰️ [Aircraft Detection System (YOLOv8)](https://github.com/RiduanAziz/Aircraft-Detection) | Real-time missile/aircraft detection & tracking using OpenCV + Socket communication | Python, OpenCV, YOLOv8 |
+| 💳 [Smart POS & Sales Dashboard](https://github.com/RiduanAziz/Smart-POS-System) | Multi-store POS system with live analytics, report export (PDF/CSV), and admin panel | PHP, MySQL, JS |
+| 🤖 [AI ChatBot (NLP)](https://github.com/RiduanAziz/AI-ChatBot) | Context-aware chatbot using Natural Language Processing and TensorFlow | Python, NLTK, TensorFlow |
 
 ---
 
@@ -83,9 +83,9 @@
 
 <div align="center">
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=riduan46&show_icons=true&theme=dracula&hide_border=false"/>
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riduan46&theme=dracula&layout=compact&hide_border=false"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=riduan46&theme=dracula&hide_border=false" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=RiduanAziz&show_icons=true&theme=dracula&hide_border=false"/>
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiduanAziz&theme=dracula&layout=compact&hide_border=false"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=RiduanAziz&theme=dracula&hide_border=false" />
 
 </div>
 
@@ -110,11 +110,11 @@
 ## 📈 Contributions & Insights  
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=riduan46&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=RiduanAziz&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riduan46&label=Profile%20views&color=ff69b4&style=flat" alt="riduan46" /> 
+  <img src="https://komarev.com/ghpvc/?username=RiduanAziz&label=Profile%20views&color=ff69b4&style=flat" alt="riduan46" /> 
 </p>
 
 ---
