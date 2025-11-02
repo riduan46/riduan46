@@ -29,7 +29,19 @@
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=riduan46&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riduan46&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+<!-- Top Languages Card -->
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riduan46&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+
+<!-- GitHub Stats Card -->
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=riduan46&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"/>
+
+</div>
+
+
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riduan46&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dracula&hide_border=false"/>
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -38,13 +50,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=riduan46&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-###
 
-<div align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=riduan46&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"/>
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riduan46&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=dracula&hide_border=false"/>
-</div>
-
----
 
